@@ -1,0 +1,6 @@
+{
+  "name": "LingoQuest - 듀오링고 언어 학습",
+  "description": "듀오링고 스타일의 14개국 다국적 언어 학습 플랫폼. 영어·일본어·스페인어·프랑스어·중국어·독일어·한국어·이탈리아어·러시아어·베트남어·태국어·아랍어·포르투갈어·인도네시아어 지원 및 AI 롤플레이·실시간 발음 학습 제공",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
